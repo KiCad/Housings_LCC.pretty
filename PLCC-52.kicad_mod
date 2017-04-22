@@ -1,4 +1,4 @@
-(module PLCC-52 (layer F.Cu) (tedit 58FB4BA2)
+(module PLCC-52 (layer F.Cu) (tedit 58FB5F99)
   (descr "PLCC, 52 pins, surface mount")
   (tags "plcc smt")
   (attr smd)
